@@ -8,9 +8,9 @@ You can use the [editor on GitHub](https://github.com/tiffanywy1993/tiffanywy199
 About ME
 
 
-# Name:Tiffany Yeung
-DOB: Oct 4 1993
-Major: Computer Information System
+# Name:Tiffany Yeung 
+## DOB: Oct 4 1993
+# Major: Computer Information System
 ## Minor :Hospitality 
 ### Hobby: Shopping, Traveling
 
