@@ -13,14 +13,16 @@ Major: Computer Information System
 ```markdown
 Syntax highlighted code block
 
-# JAN
-## FEB
-### MARCH
+# Name:Tiffany Yeung
+DOB: Oct 4 1993
+Major: Computer Information System
+## Minor :Hospitality 
+### Hobby: Shopping, Traveling
 
-- Bulleted
-- List
+- Been to: France, China, Korea, Japan, England, Holland, Austrlia 
 
-1. Numbered
+
+1. 
 2. List
 
 **Bold** and _Italic_ and `Code` text
