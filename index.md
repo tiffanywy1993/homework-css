@@ -2,16 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/tiffanywy1993/tiffanywy1993.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Bio
+About ME
 
-Name:Tiffany Yeung
-DOB: Oct 4 1993
-Major: Computer Information System
-
-```markdown
-Syntax highlighted code block
 
 # Name:Tiffany Yeung
 DOB: Oct 4 1993
@@ -19,16 +14,13 @@ Major: Computer Information System
 ## Minor :Hospitality 
 ### Hobby: Shopping, Traveling
 
-- Been to: France, China, Korea, Japan, England, Holland, Austrlia 
+- Been to: France, China, Korea, Japan, England, Holland, Austrlia........
 
 
-1. 
-2. List
+1. Fav Food: noodles, steak
+2. Fav movie: Avengers, wonder woman
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
