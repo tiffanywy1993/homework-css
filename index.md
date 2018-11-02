@@ -1,9 +1,5 @@
 ## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tiffanywy1993/tiffanywy1993.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-
 ### Bio
 About ME
 
@@ -13,6 +9,8 @@ About ME
 # Major: Computer Information System
 ## Minor :Hospitality 
 ### Hobby: Shopping, Traveling
+## From Hong Kong 
+## 
 
 - Been to: France, China, Korea, Japan, England, Holland, Austrlia........
 
@@ -21,6 +19,7 @@ About ME
 2. Fav movie: Avengers, wonder woman
 3. Fav drink:Long island ICED tea
 4. Fav resturant: Fogo de Chao
+
 
 
 
